@@ -31,12 +31,12 @@ O jogo deve ser capaz de:
 
 ### Screenshot
 
-![campo-de-batalha](.campo-de-batalha.png)
+![campo-de-batalha](./campo-de-batalha.png)
 
 
 ### Links
 
-- Live Site URL: [Batalha Naval com JS]()
+- Live Site URL: [Batalha Naval com JS](https://julio-henrique.github.io/batalha-naval-js/)
 
 
 ## Meu processo
