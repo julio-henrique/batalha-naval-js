@@ -131,5 +131,5 @@ Mas acima de tudo ver como `methods` podem ser usados de forma fácil e simples,
 
 ## Author
 
-- Linkedin - [Julio Henrique](https://www.linkedin.com/in/julio-h/)
+- Linkedin - [Julio Henrique](https://www.linkedin.com/in/julio-henriqueCS/)
 - Email - juliohjesus@gmail.com
